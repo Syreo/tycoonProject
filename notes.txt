@@ -1,0 +1,5 @@
+Store has employees, upgrades and items.
+Employee has name and perks.
+Warehouse has items and upgrades.
+Item has name, type, value.
+
